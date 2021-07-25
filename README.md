@@ -1,5 +1,5 @@
 # WomanLife
-
+<img src="https://drive.google.com/uc?id=1ZQmWLodX5i-AuOxxwJUMwWIhyC9mGTy9"/>
 
 Proyecto final en SaturdaysAI La Paz, para la detección y clasificación de cáncer de mama en mujeres de 25 a 75 años de edad a partir de imágenes de ultrasonido.
 
