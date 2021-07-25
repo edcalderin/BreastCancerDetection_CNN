@@ -26,4 +26,5 @@ Curva Loss en Train/Validation
 ## Deployment
 Conversión del modelo de Full Tensorflow a Tensorflow Lite. 
 Aplicación móvil desarrollada en Flutter, link aquí https://github.com/edcalderin/BreastCancerDetection_app
+
 <img src="https://drive.google.com/uc?id=1Y69yszJl4HJWtUxfCqBLBb51CbRDGiVZ"/>
