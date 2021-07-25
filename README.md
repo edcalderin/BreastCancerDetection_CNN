@@ -15,6 +15,14 @@ Al-Dhabyani W, Gomaa M, Khaled H, Fahmy A. Dataset of breast ultrasound images. 
 ## Creación de la red neuronal
 Tensorflow + Keras + Convolutional Neural Network
 
+## Resultados
+
+Curva Accuracy en Train/Validation
+<img src="https://drive.google.com/uc?id=1bt1PMxEvajfTk6QLLUH-KkelXjU8uIPb"/>
+
+Curva Loss en Train/Validation
+<img src="https://drive.google.com/uc?id=1Qa_pQCyC2d_k9fH0wTj22u9DTPnXt3QH"/>
+
 ## Deployment
 Conversión del modelo de Full Tensorflow a Tensorflow Lite. 
 Aplicación móvil desarrollada en Flutter, link aquí https://github.com/edcalderin/BreastCancerDetection_app
