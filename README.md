@@ -17,10 +17,12 @@ Tensorflow + Keras + Convolutional Neural Network
 
 ## Resultados
 
-Curva Accuracy en Train/Validation
+Curva Accuracy en Train/Validation:
+
 <img src="https://drive.google.com/uc?id=1bt1PMxEvajfTk6QLLUH-KkelXjU8uIPb"/>
 
-Curva Loss en Train/Validation
+Curva Loss en Train/Validation:
+
 <img src="https://drive.google.com/uc?id=1Qa_pQCyC2d_k9fH0wTj22u9DTPnXt3QH"/>
 
 ## Deployment
